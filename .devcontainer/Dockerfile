@@ -24,4 +24,4 @@ RUN curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/ma
     soundnessup update
 
 # Default work directory
-WORKDIR /workspace
+WORKDIR /workspaces/soundtestnet
